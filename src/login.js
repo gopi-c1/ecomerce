@@ -112,7 +112,7 @@ function LoginRegister() {
             <div className='col-md-6 right-box'>
                 <form onSubmit={handlesubmit1} >
                     <div className='header-text mb-4'>
-                        <h1>Sign In</h1>
+                        <h1>Sign I</h1>
                     </div>
                     <div className='input-group mb-3'>
                         <input name="email" type='email' placeholder='Email' className='form-control form-control-lg bg-lignt fs-6' onChange={handlechange1} value={form1.email}></input>
